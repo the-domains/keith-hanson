@@ -1,0 +1,28 @@
+name: Keith Hanson
+favicon: null
+layout_spectrum: 0.8010169668123126
+typography_spectrum: 0.02256957278586924
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6038339997176081
+  lightness: 0.6237862471025437
+  saturation: 0.4874496750999242
+  rhythmicContrast: 0.20189315360039473
+purpose: []
