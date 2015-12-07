@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Keith Hanson]]></title>
         <description><![CDATA[Keith Hanson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/keith-hanson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 16:11:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 16:12:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keith-hanson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/keith-hanson/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">b845d48b-8974-46ed-89e6-b7a019c50d5b</guid>
-            <pubDate>Mon, 07 Dec 2015 16:11:44 GMT</pubDate>
+            <pubDate>Mon, 07 Dec 2015 16:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
